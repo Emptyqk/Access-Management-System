@@ -2,7 +2,7 @@
 
 1 文件管理
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image001.png)
 
 com.txt储存小区的卡信息及出入时间。
 
@@ -16,17 +16,18 @@ dooor.cpp为代码。
 
 2 变量基本信息
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image003.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image003.png)
 
 3 功能图
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image005.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image005.png)
 
 4 流程图
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image007.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image007.png)
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image009.jpg)![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image011.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image009.png)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image011.png)
 
 5 功能概述
 
@@ -50,19 +51,19 @@ dooor.cpp为代码。
 
 用户验证：用户需要通过输入卡号来验证身份。系统需要根据卡号查找对应的用户信息。
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image013.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image013.png)
 
  
 
 门禁控制：系统需要根据用户的身份验证结果，控制门禁的开关。成功验证的用户可以打开相应的楼门。
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image015.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image015.png)
 
  
 
 用户管理：管理员可以添加、删除和修改用户信息。管理员可以查看用户的详细信息。
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image017.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image017.png)
 
  
 
@@ -70,15 +71,15 @@ dooor.cpp为代码。
 
 时间记录：系统需要记录用户开门的时间。时间记录可以用于后续的查询和统计。
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image019.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image019.png)
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image021.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image021.png)
 
  
 
 错误处理：系统需要对用户输入的错误信息进行提示。错误处理友好，引导用户重新输入。
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image023.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image023.png)
 
  
 
@@ -86,13 +87,13 @@ dooor.cpp为代码。
 
 普通用户：可以通过输入卡号打开楼门。可以查看自己的开门记录。
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image025.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image025.png)
 
  
 
 管理员：可以管理用户信息，包括添加、删除和修改用户。可以查看所有用户的信息和开门记录。
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image027.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image027.png)
 
  
 
@@ -110,43 +111,43 @@ dooor.cpp为代码。
 
 用户输入卡号进入小区门。
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image030.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image030.png)
 
 用户的2项功能。
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image032.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image032.png)
 
 管理员：
 
 主菜单，选择管理员身份，输入密码验证是否是管理员，密码输入次数不能超过3次，否则会退出系统。
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image033.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image033.png)
 
 1登记用户卡，增加门卡的两种类型。
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image034.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image034.png)
 
 2删除功能
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image035.png)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image035.png)
 
   3显示功能
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image037.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image037.png)
 
 4小区/楼门开放时间记录（新->早）
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image039.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image039.png)
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image041.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image041.png)
 
  
 
 5修改功能
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image043.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image043.png)
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image045.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image045.png)
 
  
 
@@ -154,9 +155,9 @@ dooor.cpp为代码。
 
 ### 出现问题
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image054.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image054.png)
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image055.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image055.png)
 
 用于存放数据的文件表无法正常显示汉字，只能显示乱码。
 
@@ -170,7 +171,7 @@ dooor.cpp为代码。
 
 修改后：
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image056.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image056.png)
 
  
 
@@ -178,9 +179,9 @@ dooor.cpp为代码。
 
 return返回上一级，但由于实际工作中上一级不一定是菜单，所以直接改成了访问菜单函数。
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image058.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image058.png)
 
-![img](file:///C:/Users/76742/AppData/Local/Temp/msohtmlclip1/01/clip_image060.jpg)
+![img](https://github.com/Emptyqk/Access-Management-System/blob/main/IMAGE/clip_image060.png)
 
  
 
